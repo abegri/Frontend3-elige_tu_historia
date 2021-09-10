@@ -1,7 +1,7 @@
 # Evaluación Parcial- Front End 3. Certified Tech Develover. 
 
 - gh-pages: https://abegri.github.io/Frontend3-elige_tu_historia/
-- Link a CodeSandbox: https://codesandbox.io/s/frontend3-primer-entregable-zwdeq?file=/README.md:0-3354
+- Link a CodeSandbox: https://codesandbox.io/s/frontend3-primer-entregable-zwdeq?file=/src/App.js
 
 ## Consigna
 
