@@ -50,7 +50,6 @@ class App extends React.Component {
             if(this.state.seleccionAnterior === "A"){
               this.setState({
                 contador: this.state.contador + 2,
-                seleccionAnterior: "A"
               });
             }else{
               this.setState({
